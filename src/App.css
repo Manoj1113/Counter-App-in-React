@@ -1,0 +1,33 @@
+.style{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.style button{
+  border: none;
+  outline: none;
+  padding: 10px 15px;
+  font-size: 22px;
+  border-radius: 4px;
+}
+button.plus{
+  background-color: green;
+  color: white;
+  border: 2px solid black;
+  margin-left: 10px;
+}
+button.minus{
+  background-color: red;
+  color: white;
+  border: 2px solid black;
+  margin-right: 10px;
+}
+h1{
+  color: darkcyan;
+  margin-bottom: 40px;
+}
+p{
+  font-size: 30px;
+  color: darkblue;
+}
